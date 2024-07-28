@@ -12,17 +12,13 @@ import {
   
   export const Socials = [
     {
-      name: "Discord",
-      src: "/assets/discord.svg",
+      name: "GitHUb",
+      src: "/assets/github.png",
     },
     {
-      name: "Facebook",
-      src: "/assets/facebook.svg",
-    },
-    {
-      name: "Instagram",
-      src: "/assets/instagram.svg",
-    },
+      name: "LinkedIn",
+      src: "/assets/linkedin.png",
+    }
   ];
   
   export const NavLinks = [
