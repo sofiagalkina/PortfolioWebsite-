@@ -1,3 +1,4 @@
+import { url } from "inspector";
 import {
     RxCrop,
     RxDesktop,
@@ -14,10 +15,12 @@ import {
     {
       name: "GitHUb",
       src: "/assets/github.png",
+      url: "https://github.com/sofiagalkina",
     },
     {
       name: "LinkedIn",
       src: "/assets/linkedin.png",
+      url: "https://www.linkedin.com/in/sofigalkina/",
     }
   ];
   
