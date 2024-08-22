@@ -59,16 +59,18 @@ import {
   
   export const ProImages2 = [
     {
-      src: "/assets/projects/Orange1.jpeg",
+      src: "/assets/projects/chessproject.png",
+      url: "",
     },
     {
-      src: "/assets/projects/Orange2.jpeg",
+      src: "/assets/projects/todoappproject.png",
     },
     {
-      src: "/assets/projects/Orange3.jpeg",
+      src: "/assets/projects/weatherapp.png",
     },
     {
-      src: "/assets/projects/Orange4.jpeg",
+      src: "/assets/projects/animations.png",
+      url: "https://cssanimations-seven.vercel.app/",
     },
   ];
   
