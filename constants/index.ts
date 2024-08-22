@@ -44,29 +44,35 @@ import {
   
   export const ProImages = [
     {
-      src: "/assets/projects/SpaceCity.jpg",
+      src: "/assets/projects/comproject.png",
+      url: "https://sofiagalkina.github.io/wdd230/chamber/directory.html",
     },
     {
-      src: "/assets/projects/SpaceCity1.jpg",
+      src: "/assets/projects/oldportfolio.png",
+      url: "https://sofiagalkina.github.io/portfolio/",
     },
     {
-      src: "/assets/projects/SpaceCity2.jpg",
+      src: "/assets/projects/designprinciples.png",
+      url: "https://sofiagalkina.github.io/wdd230/lesson2/design-principles.html",
     },
     {
       src: "/assets/projects/SpaceCity3.jpg",
+      url: "",
     },
   ];
   
   export const ProImages2 = [
     {
       src: "/assets/projects/chessproject.png",
-      url: "",
+      url: "https://chess-orcin-ten.vercel.app/",
     },
     {
       src: "/assets/projects/todoappproject.png",
+      url: "https://to-do-react-app-indol.vercel.app/",
     },
     {
       src: "/assets/projects/weatherapp.png",
+      url: "https://weather-app-theta-three-66.vercel.app/",
     },
     {
       src: "/assets/projects/animations.png",
