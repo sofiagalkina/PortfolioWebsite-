@@ -15,3 +15,19 @@
 .slow-spin {
     animation: rotation 5s linear infinite;
 }
+
+
+/* Red dot animation */
+@keyframes pulse {
+    0%, 100% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(1.5); opacity: 0.5; }
+}
+
+
+.red-dot {
+    
+  animation: pulse 2s infinite;
+}
+
+
+

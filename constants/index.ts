@@ -83,37 +83,37 @@ import {
   export const ServiceData = [
     {
       icon: RxReader,
-      title: "Seo",
+      title: "Next.js",
       content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       backgroundImage: "/assets/space/SpaceCity7.jpeg",
     },
     {
       icon: RxCrop,
-      title: "Development",
+      title: "React",
       content: "Lorem ipsum dolor sit /amet, consectetur adipiscing elit.",
       backgroundImage: "/assets/space/SpaceCity9.jpeg",
     },
     {
       icon: RxPencil2,
-      title: "Branding",
+      title: "Tailwind",
       content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       backgroundImage: "/assets/space/SpaceCity1.jpg",
     },
     {
       icon: RxDesktop,
-      title: "Design",
+      title: "SASS",
       content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       backgroundImage: "/assets/space/SpaceCity6.jpeg",
     },
     {
       icon: RxAccessibility,
-      title: "Management",
+      title: "Vue",
       content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       backgroundImage: "/assets/space/SpaceCity5.jpeg",
     },
     {
       icon: RxRocket,
-      title: "Production",
+      title: "TypeScript",
       content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       backgroundImage: "/assets/space/SpaceCity8.jpeg",
     },
