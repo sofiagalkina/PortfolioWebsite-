@@ -27,7 +27,7 @@ export default function Home() {
       <div className="flex flex-col gap-3 z-[10] pl-40 pt-20">
         <h1 className="text-[50px] text-white max-w-[500px]">
           Transforming ideas into{" "}
-          <span className="text-red-500">Digital Reality</span>
+          <span className="red-text text-red-500">Digital Reality</span>
         </h1>
         <p className="text-[16px] text-gray-200 md:text-gray-400 mb-10 md:pb-2 max-w-[400px]">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut similique eum, cumque fuga est dignissimos voluptatibus ex qui officia nobis officiis saepe natus dolor accusantium pariatur alias reprehenderit, soluta quae?
