@@ -29,8 +29,8 @@ export default function Home() {
           Transforming ideas into{" "}
           <span className="red-text text-red-500">Digital Reality</span>
         </h1>
-        <p className="text-[16px] text-gray-200 md:text-gray-400 mb-10 md:pb-2 max-w-[400px]">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut similique eum, cumque fuga est dignissimos voluptatibus ex qui officia nobis officiis saepe natus dolor accusantium pariatur alias reprehenderit, soluta quae?
+        <p className="text-[19px] text-gray-200 md:text-gray-400 mb-10 md:pb-2 max-w-[400px]">
+        I'm a software-engineering student with a passion for Full Stack Software Engineering. Eager to apply newly acquired skills in designing and implementing dynamic web solutions. Proficient in both front-end and back-end technologies, ready to contribute to innovative projects and continue learning and growing in the field.
         </p>
 
         <div className="relative w-[100px] h-[100px] md:w-[160px] md:h-[160px] mt-5">

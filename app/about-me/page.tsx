@@ -14,7 +14,7 @@ const Page = () => {
 
             </p>
           </div>
-          <div className="absolute -left-36 bottom-5 rotate-12 animate-pulse duration-75">
+          <div className="absolute left-20 bottom-10 rotate-2 animate-pulse duration-75">
                 <Image 
                 src={"/assets/bulb.png"}
                 alt='bulb'
