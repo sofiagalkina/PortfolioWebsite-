@@ -9,9 +9,9 @@ const Page = () => {
           <h1 className="text-[50px] text-white font-semibold">
                 My Skills <span className="red-dot text-red-500">.</span>
             </h1>
-            <p className="max-w-[350px] text-[16px] text-gray-200 md:text-gray-400">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores vel, hic consequatur consequuntur eius cupiditate tenetur quisquam iste assumenda similique saepe? Quisquam reiciendis magnam fugit necessitatibus. Facere repellendus asperiores necessitatibus!
-
+            <p className="max-w-[300px] text-[16px] text-gray-200 md:text-gray-400">
+            I'm all about creating smooth user interfaces and strong backend solutions, always making sure things run fast and scale easily.
+             Plus, I'm always learning new tech to keep my skills fresh and stay up to date with the industry trends
             </p>
           </div>
           <div className="absolute left-20 bottom-10 rotate-2 animate-pulse duration-75">

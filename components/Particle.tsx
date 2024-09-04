@@ -56,7 +56,7 @@ const Particle = () => {
             },
             random: true,
             straight: false,
-            speed: 1.5,
+            speed: 1.2,
           },
           number: {
             density: {

@@ -13,14 +13,14 @@
 }
 
 .slow-spin {
-    animation: rotation 9s linear infinite;
+    animation: rotation 11s linear infinite;
 }
 
 
 /* Red dot animation */
 @keyframes pulse {
     0%, 100% { transform: scale(1); opacity: 1; rotate: 10deg; }
-    50% { transform: scale(1.5); opacity: 0.5; }
+    50% { transform: scale(1.2); opacity: 0.6; }
 }
 
 
@@ -34,10 +34,10 @@
 /* animation for text: */
 @keyframes flickerGlow {
     0%, 100% {
-      text-shadow: 0 0 5px rgb(216, 0, 0), 0 0 10px red, 0 0 15px red;
+      text-shadow: 0 0 5px rgb(148, 3, 3), 0 0 10px rgb(149, 0, 0), 0 0 15px rgb(193, 0, 0);
     }
     50% {
-      text-shadow: 0 0 10px rgb(217, 1, 1), 0 0 20px red, 0 0 30px red;
+      text-shadow: 0 0 10px rgb(116, 0, 0), 0 0 20px rgb(206, 0, 0), 0 0 30px red;
     }
   }
 
