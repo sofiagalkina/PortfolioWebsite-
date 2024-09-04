@@ -9,6 +9,7 @@ import "swiper/css/free-mode";
 import { FreeMode, Pagination } from "swiper/modules";
 import { ProImages, ProImages2 } from "@/constants";
 import Image from "next/image";
+import { CSSProperties } from "react";
 
 const ProjectSlider = () => {
     return (
@@ -25,6 +26,10 @@ const ProjectSlider = () => {
                     clickable: true,
                 }}
                 modules={[FreeMode, Pagination]}
+                style={{
+                "--swiper-pagination-color": "#007aff",
+                "--swiper-pagination-bullet-inactive-color": "#999999"
+                } as CSSProperties}
             >
                 <SwiperSlide className="mb-14">
                     <div className="grid grid-cols-2 gap-4 md:px-16">

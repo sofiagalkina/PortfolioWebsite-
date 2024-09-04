@@ -9,11 +9,12 @@ import "swiper/css/free-mode";
 import { FreeMode, Pagination } from "swiper/modules";
 import { ProImages, ProImages2, ServiceData } from "@/constants";
 import Image from "next/image";
+import { CSSProperties } from "react";
 
 const ServiceSlider = () => {
     return (
         <div className="absolute bottom-0 right-20 md:bottom-40 md:right-30 w-[60%] md:w-[55%] ">
-               <Swiper
+               <Swiper 
             breakpoints={{
                 340: {
                     slidesPerView: 1,
@@ -29,6 +30,10 @@ const ServiceSlider = () => {
                 clickable: true,
             }}
             modules={[FreeMode, Pagination]}
+            style={{
+                "--swiper-pagination-color": "#007aff",
+                "--swiper-pagination-bullet-inactive-color": "#999999"
+                } as CSSProperties}
             >
                 {ServiceData.map((item) => (
                     <SwiperSlide key={item.title}> 
