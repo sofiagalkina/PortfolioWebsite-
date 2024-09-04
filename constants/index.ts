@@ -11,6 +11,11 @@ import {
     RxDashboard,
   } from "react-icons/rx";
   
+  import { FaReact, FaAws } from "react-icons/fa";
+  import { RiTailwindCssFill, RiVuejsLine, RiFirebaseFill } from "react-icons/ri";
+  import { SiSass, SiTypescript, SiMongodb, SiNextdotjs } from "react-icons/si";
+
+
   export const Socials = [
     {
       name: "GitHUb",
@@ -82,39 +87,58 @@ import {
   
   export const ServiceData = [
     {
-      icon: RxReader,
+      icon: SiNextdotjs,
       title: "Next.js",
-      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      content: "Framework for server-side rendering React apps",
       backgroundImage: "/assets/space/SpaceCity7.jpeg",
     },
     {
-      icon: RxCrop,
+      icon: FaReact,
       title: "React",
-      content: "Lorem ipsum dolor sit /amet, consectetur adipiscing elit.",
+      content: "Library for building user interfaces",
       backgroundImage: "/assets/space/SpaceCity9.jpeg",
     },
     {
-      icon: RxPencil2,
+      icon: RiTailwindCssFill,
       title: "Tailwind",
-      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      content: "Utility-first CSS framework for fast styling",
       backgroundImage: "/assets/space/SpaceCity1.jpg",
     },
     {
-      icon: RxDesktop,
+      icon: SiSass,
       title: "SASS",
-      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      content: "CSS preprocessor for advanced styling",
       backgroundImage: "/assets/space/SpaceCity6.jpeg",
     },
     {
-      icon: RxAccessibility,
+      icon: RiVuejsLine,
       title: "Vue",
-      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      content: "Progressive framework for building UIs and single-page apps",
       backgroundImage: "/assets/space/SpaceCity5.jpeg",
     },
     {
-      icon: RxRocket,
+      icon: SiTypescript,
       title: "TypeScript",
-      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      content: "Superset of JavaScript with type safety",
       backgroundImage: "/assets/space/SpaceCity8.jpeg",
     },
+    {
+      icon: RiFirebaseFill,
+      title: "Firebase",
+      content: "Backend-as-a-service for real-time data and auth",
+      backgroundImage: "/assets/space/SpaceCity7.jpeg",
+    },
+    {
+      icon: SiMongodb,
+      title: "MongoDB",
+      content: "NoSQL database for flexible data storage",
+      backgroundImage: "/assets/space/SpaceCity9.jpeg",
+    },
+    {
+      icon: FaAws,
+      title: "AWS",
+      content: "Cloud services for scalable infrastructure",
+      backgroundImage: "/assets/space/SpaceCity6.jpeg",
+    },
+    
   ];

@@ -30,7 +30,7 @@ export default function Home() {
           <span className="red-text text-red-500">Digital Reality</span>
         </h1>
         <ul className="text-[19px] text-gray-200 md:text-gray-400 mb-10 md:pb-2 max-w-[400px] list-disc">
-          <li className="marker:text-orange-500">I'm a software-engineering student with a passion for Full Stack Software Engineering</li>
+          <li className="marker:text-orange-500">I&#39;m a software-engineering student with a passion for Full Stack Software Engineering</li>
           <li className="marker:text-orange-500">Eager to apply newly acquired skills in designing and implementing dynamic web solutions</li>
           <li className="marker:text-orange-500">Proficient in both front-end and back-end technologies, ready to contribute to innovative projects and continue learning and growing in the field</li>
         </ul>

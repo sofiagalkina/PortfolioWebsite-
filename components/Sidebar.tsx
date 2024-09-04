@@ -30,7 +30,7 @@ const Sidebar = () => {
 
             return () => clearTimeout(timeout);
         }
-    }, [isRouting]);
+    }, [isRouting, path]);
 
 
 
