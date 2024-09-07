@@ -9,7 +9,7 @@ const Page = () => {
                 My Projects <span className="red-dot text-red-500">.</span>
             </h1>
             <p className="max-w-[400px] text-[16px] text-gray-200 md:text-gray-400">
-            Here&#39;s a collection of my web development projects where I&#39;ve tackled everything from front-end design to back-end functionality. Each project reflects my passion for coding and problem-solving, showcasing the skills I&#39;ve honed along the way. Take a look around—I&#39;m always excited to share what I&#39;ve been working on!
+            Here&#39;s a collection of my web development projects where I&#39;ve tackled everything from front-end design to back-end functionality. Each project reflects my passion for coding and problem-solving, showcasing the skills I&#39;ve honed along the way. Take a look around — I&#39;m always excited to share what I&#39;ve been working on!
 
             </p>
         </div>
