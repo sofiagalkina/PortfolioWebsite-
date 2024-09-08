@@ -84,6 +84,25 @@ import {
       url: "https://cssanimations-seven.vercel.app/",
     },
   ];
+
+  export const ProImages3 = [
+    {
+      src: "/assets/projects/palindromeProject.png",
+      url: "https://sofiagalkina.github.io/isPalindrome/",
+    },
+    {
+      src: "/assets/projects/palindromeProject.png",
+      url: "https://sofiagalkina.github.io/isPalindrome/",
+    },
+    {
+      src: "/assets/projects/palindromeProject.png",
+      url: "https://sofiagalkina.github.io/isPalindrome/",
+    },
+    {
+      src: "/assets/projects/palindromeProject.png",
+      url: "https://sofiagalkina.github.io/isPalindrome/",
+    },
+  ];
   
   export const ServiceData = [
     {

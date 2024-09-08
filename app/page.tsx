@@ -1,6 +1,7 @@
 import Particle from "@/components/Particle";
 import Image from "next/image";
 
+
 export default function Home() {
   return (
     <main className="flex items-center h-screen relative bg-cover bg-[url('/assets/bg-explosion.png')]">
@@ -43,6 +44,7 @@ export default function Home() {
           width={160}
           height={160}
           className="slow-spin"
+  
         />
         </div>
       </div>
