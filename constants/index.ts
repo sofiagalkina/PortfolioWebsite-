@@ -91,12 +91,12 @@ import {
       url: "https://sofiagalkina.github.io/isPalindrome/",
     },
     {
-      src: "/assets/projects/palindromeProject.png",
-      url: "https://sofiagalkina.github.io/isPalindrome/",
+      src: "/assets/projects/decimalToBinary.png",
+      url: "https://sofiagalkina.github.io/decimalToBinary/",
     },
     {
-      src: "/assets/projects/palindromeProject.png",
-      url: "https://sofiagalkina.github.io/isPalindrome/",
+      src: "/assets/projects/APIv2.png",
+      url: "https://nationalparkplanner-dqvk.onrender.com/accounts",
     },
     {
       src: "/assets/projects/palindromeProject.png",
