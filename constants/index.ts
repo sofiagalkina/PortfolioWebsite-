@@ -99,8 +99,8 @@ import {
       url: "https://nationalparkplanner-dqvk.onrender.com/accounts",
     },
     {
-      src: "/assets/projects/palindromeProject.png",
-      url: "https://sofiagalkina.github.io/isPalindrome/",
+      src: "/assets/projects/spreadsheet.png",
+      url: "https://sofiagalkina.github.io/spreadsheet/",
     },
   ];
   
