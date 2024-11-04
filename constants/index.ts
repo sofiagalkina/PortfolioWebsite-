@@ -116,8 +116,8 @@ import {
       url: "https://streaksnap.vercel.app/",
     },
     {
-      src: "/assets/projects/APIv2.png",
-      url: "https://nationalparkplanner-dqvk.onrender.com/accounts",
+      src: "/assets/projects/cseMotors.png",
+      url: "https://cse340-galkina.onrender.com",
     },
     {
       src: "/assets/projects/spreadsheet.png",

@@ -130,7 +130,7 @@ const ProjectSlider = () => {
                 </SwiperSlide>
                 <SwiperSlide className="mb-14">
                     <div className="grid grid-cols-2 gap-4 md:px-16">
-                        {ProImages3.map((image) => (
+                        {ProImages4.map((image) => (
                             <div className="relative group w-[150px] h-[150px] md:w-[230px] md:h-[230px]" key={image.src}>
                                 <a 
                                     href={image.url}
