@@ -102,7 +102,31 @@ import {
       src: "/assets/projects/spreadsheet.png",
       url: "https://sofiagalkina.github.io/spreadsheet/",
     },
+
+    
   ];
+
+  export const ProImages4 = [
+    {
+      src: "/assets/projects/CYK.png",
+      url: "https://cover-your-kittens.vercel.app/",
+    },
+    {
+      src: "/assets/projects/streakSnap.png",
+      url: "https://streaksnap.vercel.app/",
+    },
+    {
+      src: "/assets/projects/APIv2.png",
+      url: "https://nationalparkplanner-dqvk.onrender.com/accounts",
+    },
+    {
+      src: "/assets/projects/spreadsheet.png",
+      url: "https://sofiagalkina.github.io/spreadsheet/",
+    },
+
+    
+  ];
+  
   
   export const ServiceData = [
     {

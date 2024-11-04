@@ -7,7 +7,7 @@ import "swiper/css/pagination";
 import "swiper/css/free-mode";
 
 import { FreeMode, Pagination } from "swiper/modules";
-import { ProImages, ProImages2, ProImages3 } from "@/constants";
+import { ProImages, ProImages2, ProImages3, ProImages4 } from "@/constants";
 import Image from "next/image";
 import { CSSProperties } from "react";
 
