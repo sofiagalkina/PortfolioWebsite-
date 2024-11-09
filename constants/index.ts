@@ -11,9 +11,11 @@ import {
     RxDashboard,
   } from "react-icons/rx";
   
-  import { FaReact, FaAws } from "react-icons/fa";
-  import { RiTailwindCssFill, RiVuejsLine, RiFirebaseFill } from "react-icons/ri";
-  import { SiSass, SiTypescript, SiMongodb, SiNextdotjs } from "react-icons/si";
+  import { FaReact, FaAws, FaBootstrap } from "react-icons/fa";
+  import { RiTailwindCssFill, RiVuejsLine, RiFirebaseFill, RiBootstrapLine } from "react-icons/ri";
+  import { SiSass, SiTypescript, SiMongodb, SiNextdotjs, SiPostgresql } from "react-icons/si";
+import { title } from "process";
+import { Content } from "next/font/google";
 
 
   export const Socials = [
@@ -183,5 +185,17 @@ import {
       content: "Cloud services for scalable infrastructure",
       backgroundImage: "/assets/space/SpaceCity6.jpeg",
     },
+    {
+      icon: FaBootstrap,
+      title: "Bootstrap",
+      content: "CSS framework directed at responsive, mobile-first front-end web development",
+      backgroundImage: "/assets/space/SpaceCity7.jpeg",
+    },
+    {
+      icon: SiPostgresql,
+      title: "PostgreSQL",
+      content: "Relational database management system",
+      backgroundImage: "/assets/space/SpaceCity8.jpeg",
+    }
     
   ];
