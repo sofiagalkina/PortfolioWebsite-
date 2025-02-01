@@ -26,7 +26,7 @@ export default function Home() {
         className="absolute left-0 top-0"
       />
       <div className="flex flex-col gap-3 z-[10] pl-40 pt-20">
-        <h1 className="text-[50px] text-white max-w-[500px] md:text-[30px]">
+        <h1 className="text-[35px] text-white max-w-[500px] md:text-[30px]">
           Transforming ideas into{" "}
           <span className="red-text text-red-500">Digital Reality</span>
         </h1>
