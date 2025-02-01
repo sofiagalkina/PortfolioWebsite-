@@ -15,7 +15,7 @@ export default function Home() {
           alt="GirlEngineer"
           width={560}
           height={560}
-          className="w-[520px] h-[360px] z-[1] md:h-[460px] md:w-[460px]"
+          className="w-[420px] h-[460px] z-[1] md:h-[460px] md:w-[460px]"
         />
       </div>
       <Image 
