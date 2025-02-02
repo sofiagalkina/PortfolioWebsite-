@@ -4,8 +4,8 @@ import React from 'react';
 
 const Navbar = () => {
     return (
-        <div className="fixed top-0 bg-transparent z-[20] w-full flex gap-5 md:justify-between md:px-60 p-5 ">
-            <h1 className='text-white text-[45px] md:text-[38px]'> 
+        <div className="fixed top-0 bg-transparent z-[20] w-full flex justify-between gap-5 px-5 md:px-5 p-5">
+            <h1 className='text-white text-[34px] md:text-[38px]'> 
                 Sofia <span className='font-thin'>Trane</span>
                 <span className='red-dot text-red-500'>.</span>
             </h1>
