@@ -26,14 +26,14 @@ export default function Home() {
         className="absolute left-0 top-0"
       />
       <div className="flex flex-col gap-3 z-[10] pl-40 pt-20">
-        <h1 className="text-[30px] text-white max-w-[500px] md:text-[35x]">
+        <h1 className="text-[24px] sm:text-[24px] md:text-[30px] lg:text-[40px] xl:text-[42px] text-white max-w-[500px] ">
           Transforming ideas into{" "}
           <span className="red-text text-red-500">Digital Reality</span>
         </h1>
-        <ul className="text-[16px] mb-[13px] text-gray-200 md:text-white-400 mb-10 md:pb-2 max-w-[400px] list-disc md:text-[19px]">
-          <li className="marker:text-gray-100 mb-[3px] md:mb-[6px]">I&#39;m a software-engineering student with a passion for Full Stack Software Engineering</li>
-          <li className="marker:text-gray-100 mb-[3px] md:mb-[6px]">Eager to apply newly acquired skills in designing and implementing dynamic web solutions</li>
-          <li className="marker:text-gray-100 mb-[3px] md:mb-[6px]">Proficient in both front-end and back-end technologies, ready to contribute to innovative projects and continue learning and growing in the field</li>
+        <ul className="text-[16px] mb-[13px] text-gray-200 md:text-gray-400 mb-10 md:pb-2 max-w-[400px] list-disc md:text-[19px]">
+          <li className="marker:text-gray-100 mb-[3px] md:mb-[6px]">Software-engineering student with a passion for Full Stack Software Engineering</li>
+          <li className="marker:text-gray-100 mb-[3px] md:mb-[6px]">Eager to apply my skills in designing and implementing dynamic web solutions</li>
+          <li className="marker:text-gray-100 mb-[3px] md:mb-[6px]">Proficient in both front-end and back-end technologies, ready to contribute to innovative projects and continue growing in the field</li>
         </ul>
 
 
