@@ -30,7 +30,7 @@ export default function Home() {
           Transforming ideas into{" "}
           <span className="red-text text-red-500">Digital Reality</span>
         </h1>
-        <ul className="text-[16px] mb-[13px] text-gray-200 md:text-gray-400 mb-10 md:pb-2 max-w-[400px] list-disc md:text-[19px]">
+        <ul className="text-[16px] mb-[13px] text-gray-100 md:text-gray-400 mb-10 md:pb-2 max-w-[400px] list-disc md:text-[19px]">
           <li className="marker:text-gray-100 mb-[3px] md:mb-[6px]">Software-engineering student with a passion for Full Stack Software Engineering</li>
           <li className="marker:text-gray-100 mb-[3px] md:mb-[6px]">Eager to apply my skills in designing and implementing dynamic web solutions</li>
           <li className="marker:text-gray-100 mb-[3px] md:mb-[6px]">Proficient in both front-end and back-end technologies, ready to contribute to innovative projects and continue growing in the field</li>
