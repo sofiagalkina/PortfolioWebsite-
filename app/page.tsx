@@ -15,7 +15,7 @@ export default function Home() {
           alt="GirlEngineer"
           width={560}
           height={560}
-          className="w-[420px] h-[460px] z-[1] md:h-[460px] md:w-[460px]"
+          className=" w-[260px] h-[260px] z-[1] sm:h-[360px] sm:w-[360px] md:h-[460px] md:w-[460px] lg:h-[490px] lg:w-[490px]"
         />
       </div>
       <Image 
@@ -25,14 +25,13 @@ export default function Home() {
         height={230}
         className="absolute left-0 top-0"
       />
-      <div className="flex flex-col gap-3 z-[10] pl-40 pt-20">
+      <div className="flex flex-col gap-3 z-[10] pl-5 pt-0 max-w-[70%] mr-auto">
         <h1 className="text-[24px] sm:text-[24px] md:text-[30px] lg:text-[40px] xl:text-[42px] text-white max-w-[500px] ">
           Transforming ideas into{" "}
           <span className="red-text text-red-500">Digital Reality</span>
         </h1>
         <ul className="text-[16px] mb-[13px] text-gray-100 md:text-gray-400 mb-10 md:pb-2 max-w-[400px] list-disc md:text-[19px]">
           <li className="marker:text-gray-100 mb-[3px] md:mb-[6px]">Software-engineering student with a passion for Full Stack Software Engineering</li>
-          <li className="marker:text-gray-100 mb-[3px] md:mb-[6px]">Eager to apply my skills in designing and implementing dynamic web solutions</li>
           <li className="marker:text-gray-100 mb-[3px] md:mb-[6px]">Proficient in both front-end and back-end technologies, ready to contribute to innovative projects and continue growing in the field</li>
         </ul>
 

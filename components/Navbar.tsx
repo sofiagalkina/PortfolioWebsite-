@@ -9,7 +9,7 @@ const Navbar = () => {
                 Sofia <span className='font-thin'>Trane</span>
                 <span className='red-dot text-red-500'>.</span>
             </h1>
-            <div className="flex flex-row gap-5">
+            <div className="flex flex-row gap-5 items-center">
                 {Socials.map((social) => (
                     <a 
                         key={social.name}
