@@ -14,8 +14,8 @@ import {
   import { FaReact, FaAws, FaBootstrap } from "react-icons/fa";
   import { RiTailwindCssFill, RiVuejsLine, RiFirebaseFill, RiBootstrapLine } from "react-icons/ri";
   import { SiSass, SiTypescript, SiMongodb, SiNextdotjs, SiPostgresql } from "react-icons/si";
-import { title } from "process";
-import { Content } from "next/font/google";
+  import { title } from "process";
+  import { Content } from "next/font/google";
 
 
   export const Socials = [
@@ -154,12 +154,6 @@ import { Content } from "next/font/google";
       title: "SASS",
       content: "CSS preprocessor for advanced styling",
       backgroundImage: "/assets/space/SpaceCity6.jpeg",
-    },
-    {
-      icon: RiVuejsLine,
-      title: "Vue",
-      content: "Progressive framework for building UIs and single-page apps",
-      backgroundImage: "/assets/space/SpaceCity5.jpeg",
     },
     {
       icon: SiTypescript,

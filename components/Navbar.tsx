@@ -1,12 +1,14 @@
 import { Socials } from '@/constants';
 import Image from "next/image";
 import React from 'react';
+import Link from "next/link";
+
 
 const Navbar = () => {
     return (
         <div className="fixed top-0 bg-transparent z-[20] w-full flex justify-between gap-5 px-5 md:px-5 p-5">
             <h1 className='text-white text-[34px] md:text-[38px]'> 
-                Sofia <span className='font-thin'>Trane</span>
+                <Link href="/" passHref > Sofia <span className='font-thin'>Trane</span></Link>
                 <span className='red-dot text-red-500'>.</span>
             </h1>
             <div className="flex flex-row gap-5 items-center">
