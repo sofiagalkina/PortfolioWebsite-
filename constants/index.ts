@@ -55,16 +55,16 @@ import {
       url: "https://sofiagalkina.github.io/wdd230/chamber/directory.html",
     },
     {
-      src: "/assets/projects/oldportfolio.png",
-      url: "https://sofiagalkina.github.io/portfolio/",
+      src: "/assets/projects/CYK.png",
+      url: "https://cover-your-kittens.vercel.app/",
     },
     {
-      src: "/assets/projects/designprinciples.png",
-      url: "https://sofiagalkina.github.io/wdd230/lesson2/design-principles.html",
+      src: "/assets/projects/streakSnap.png",
+      url: "https://streaksnap.vercel.app/",
     },
     {
-      src: "/assets/projects/SpaceCity3.jpg",
-      url: "",
+      src: "/assets/projects/chessproject.png",
+      url: "https://chess-orcin-ten.vercel.app/",
     },
   ];
   
@@ -110,8 +110,8 @@ import {
 
   export const ProImages4 = [
     {
-      src: "/assets/projects/CYK.png",
-      url: "https://cover-your-kittens.vercel.app/",
+      src: "/assets/projects/oldportfolio.png",
+      url: "https://sofiagalkina.github.io/portfolio/",
     },
     {
       src: "/assets/projects/streakSnap.png",
