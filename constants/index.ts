@@ -51,8 +51,8 @@ import {
   
   export const ProImages = [
     {
-      src: "/assets/projects/comproject.png",
-      url: "https://sofiagalkina.github.io/wdd230/chamber/directory.html",
+     src: "/assets/projects/movie-app.png",
+     url: "https://google.com",
     },
     {
       src: "/assets/projects/CYK.png",
@@ -114,8 +114,8 @@ import {
       url: "https://sofiagalkina.github.io/portfolio/",
     },
     {
-      src: "/assets/projects/streakSnap.png",
-      url: "https://streaksnap.vercel.app/",
+      src: "/assets/projects/comproject.png",
+      url: "https://sofiagalkina.github.io/wdd230/chamber/directory.html",
     },
     {
       src: "/assets/projects/cseMotors.png",
@@ -124,6 +124,7 @@ import {
     {
       src: "/assets/projects/spreadsheet.png",
       url: "https://sofiagalkina.github.io/spreadsheet/",
+      
     },
 
     
