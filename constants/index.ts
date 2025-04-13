@@ -52,7 +52,7 @@ import {
   export const ProImages = [
     {
      src: "/assets/projects/movie-app.png",
-     url: "https://google.com",
+     url: "https://movie-app-mu-jet.vercel.app/",
     },
     {
       src: "/assets/projects/CYK.png",
